@@ -1,0 +1,17 @@
+/* Google Map API */
+#map-section {
+  margin: 1em;
+  overflow: hidden;
+  position: relative;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+  margin: auto;
+  min-height: 22.5em;
+}
+
+#map-section h3 {
+  color: #20B2AA;
+}
